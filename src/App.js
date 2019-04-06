@@ -12,7 +12,8 @@ import theme from './theme';
 
 const iFrameStyle = {
     width:"1px",
-    minWidth:'100%'   
+    minWidth:'100%',  
+    height:'100%' 
 }
 
 const styles = theme => ({
